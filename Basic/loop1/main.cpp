@@ -1,5 +1,7 @@
 #include<iostream>
 
+// check if all digits pf spec completely divide num
+
 bool is_special(int spec, int inp) {
     while (spec>0) {
         // do with TRY CATCH later
